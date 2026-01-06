@@ -2,8 +2,6 @@
 This repository contains the codes for the analytics club project (Data driven carbon footprint analytics for chemical processes)-IIT Bombay WiDS 2025
 
 
-# Analytics_club
-This repository contains the codes for the analytics club project (Data driven carbon footprint analytics for chemical processes)-IIT Bombay WiDS 2025
 
 For Week 1: 
 Task 1: Identifying emission sources for any 3 industrial chemical processes.
